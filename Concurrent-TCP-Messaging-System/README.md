@@ -1,0 +1,2 @@
+# Concurrent TCP Messaging System
+ This project involved building a TCP-based client-server communication system using C and socket programming. The application enabled real-time message exchange between clients through a centralized server using low-level socket APIs. Core features included structured message flow, buffer management, and terminal-based interaction for simulating real-world network communication. The system demonstrated key networking concepts such as reliable data transfer, synchronization, and efficient I/O handling.
