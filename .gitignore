@@ -1,0 +1,9 @@
+cat > .gitignore << 'EOF'
+.DS_Store
+__MACOSX/
+*.o
+*.out
+client
+server
+*.log
+EOF
