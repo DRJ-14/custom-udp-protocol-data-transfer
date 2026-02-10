@@ -1,6 +1,3 @@
-//Name: Dhanasekar Ravi Jayanthi
-//SCU ID: 07700005982
-
 1. Go to the Source code folder.
 2. Open terminal window 
 3. Compile code by :
